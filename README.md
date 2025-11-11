@@ -7,7 +7,7 @@ markdown
 3. Run these commands:
 
 ```bash
-git clone <your-repo-url>
+git https://github.com/mr-ridhor/ezzifly.git
 cd <project-folder>
 npm install
 cp .env.example .env.local
